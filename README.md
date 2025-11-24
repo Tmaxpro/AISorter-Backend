@@ -1,5 +1,5 @@
 **Projet**
-- **Nom**: Backend - Détection et classification d'incidents (ML)
+- **Nom**: AISorter-Backend
 - **Description**: Backend FastAPI pour la détection et la classification d'incidents à l'aide de modèles de machine learning. Fournit des endpoints pour prédire à partir d'un fichier uploadé, stocker les rapports dans MongoDB et consulter l'historique.
 
 **Fonctionnalités**
